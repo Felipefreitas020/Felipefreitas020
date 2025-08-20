@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**Felipefreitas020/Felipefreitas020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá! Bem-vindo ao meu perfil
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudante de **Desenvolvimento de Sistemas**.<br>
+📚 Atualmente aprendendo **JavaScript, HTML, CSS e Banco de Dados**.<br>
+🎮 Apaixonado por tecnologia, programação e jogos.  
+
+## 🛠️ Tecnologias que uso
+💻 **Linguagens:** JavaScript, HTML, CSS<br>
+🛠 **Ferramentas:** Git, VS Code, Linux  
+
+## 📊 Estatísticas do GitHub
+![Guilherm03's Stats](https://github-readme-stats.vercel.app/api?username=Felipefreitas020&theme=gotham&show_icons=true&hide_border=false&count_private=true)<hr>
+![Guilherm03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipefreitas020&theme=gotham&show_icons=true&hide_border=false&layout=compact)
+
+
+## 🔗 Como me encontrar
+📧 Email: guilhermelinsal@gmail.com
+
+---
+🚀 Sempre explorando novas tecnologias e desenvolvendo projetos legais! 😃
